@@ -1,0 +1,7 @@
+.code-border {
+    background: linear-gradient(111.93deg, rgba(14, 26, 45, 0.24) -1.4%, rgba(17, 30, 50, 0.38) 104.96%);
+    border: 2px solid;
+    border-image-slice: 1;
+    margin-left: 0px;
+    border-image-source: linear-gradient(to right, #ffffff38, rgba(255, 255, 255, 0));
+}

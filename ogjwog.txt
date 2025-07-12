@@ -1,0 +1,57 @@
+  {
+    "courseName": "Python Modules and External Libraries",
+    "courseDescription": "Learn to use Python modules, pip packages, and external libraries for automation.",
+    "whatYouWillLearn": "Modules, virtualenv, pip, requests, json, os.",
+    "price": 429,
+    "tag": ["python", "modules", "libraries"],
+    "thumbnailImage": "https://via.placeholder.com/300x200?text=Python+Modules",
+    "category": "Python",
+    "status": "Published",
+    "courseBenefits": "Work with real-world APIs and build modular apps with external tools.",
+    "requirements": "Prior experience with file handling and basic Python scripting."
+  }
+
+
+
+
+  
+✅ Course 1: Working with Python Modules & Libraries
+Section 1: Using Modules
+Importing Built-in Modules
+Use math, random, and datetime.
+
+Creating Your Own Modules
+Organize code by splitting it into multiple files.
+
+Understanding __name__ == "__main__"
+Control what runs when importing modules.
+
+Section 2: Virtual Environments and pip
+Installing pip Packages
+Use pip install to add external libraries.
+
+Creating Virtual Environments
+Isolate your project dependencies using venv.
+
+Requirements File
+Use requirements.txt to share dependencies.
+
+Section 3: Common Libraries
+Working with requests
+Send HTTP requests and handle responses.
+
+Working with json
+Parse and generate JSON files easily.
+
+Automate with os and shutil
+Perform system operations like renaming and copying files.   
+
+
+
+
+
+
+
+
+
+
