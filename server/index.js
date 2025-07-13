@@ -26,7 +26,7 @@ app.use(cookieParser());
 
 
 app.use(cors({
-  origin: "http://localhost:3000", // React frontend
+  origin: "https://learnify-8o13.vercel.app", // React frontend
   methods: "GET,POST,PUT,DELETE",
   credentials: true, // Allow cookies
 }));
